@@ -12,6 +12,7 @@ public class MyActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         System.out.print("你好，中国");
+ System.out.print("你好，中国");
         System.out.print("再见，中国");
     }
 }
