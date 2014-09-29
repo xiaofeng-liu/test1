@@ -14,5 +14,7 @@ public class MyActivity extends Activity {
         System.out.print("你好，中国");
  System.out.print("你好，中国");
         System.out.print("再见，中国");
+
+1324343
     }
 }
